@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Gokhan
-- 👀 I’m interested in programming languages such as C/C++, C#, Java and Python.
-- 🌱 I’m currently learning C/C++, C# and Java
-- 💞️ I’m looking to collaborate on teaching and sharing ourselves about our experience and knowledge for programming languages.
-- 📫 This's how to contact me in here or my mail gokhan061@msn.com
+👋 **Hi, I'm Gokhan!**
 
-<!---
-GkhanTpz/GkhanTpz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 **Passionate About:**  
+Programming languages such as C/C++, C#, Java, and Python. Always curious to explore and master new technologies.
+
+🚀 **Currently Learning:**  
+Deepening my knowledge in C/C++, C#, and Java, with a focus on real-world applications and projects.
+
+💡 **What I Seek:**  
+Collaborating on projects, sharing ideas, and learning together! Let's connect and exchange knowledge and experience in programming.
+
+📬 **Feel Free to Reach Out:**  
+You can contact me here on GitHub or email me at [gokhan061@msn.com](mailto:gokhan061@msn.com). Let's collaborate and grow!
+
+---
